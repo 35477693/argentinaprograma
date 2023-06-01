@@ -1,0 +1,16 @@
+Trabajo Práctico N°0: Pequeños ejemplos y git
+
+Parte N°1:Pequeños ejemplos
+1) 
+a. El programa devuelve el siguiente valor: "8" (Resto o diferencia)
+b. El programa devuelve el siguiente valor: "204" (Producto)
+2)
+a. El programa devuelve el siguiente valor: "15" (Área del rectángulo)
+b. El programa devuelve el siguiente valor: "66.25" (Área del rectángulo)
+3)
+a. El programa devuelve el siguiente valor: "10" (Celsius)
+b. El programa devuelve el siguiente valor: "23.88" (Celsius)
+4)
+a. El programa devuelve el siguiente valor: "7" (Promedio)
+b. El programa devuelve el siguiente valor: "-4.33" (Promedio)
+c. El programa devuelve el siguiente valor: "0.26" (Promedio)
